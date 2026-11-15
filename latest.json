@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/DEINNAME/CustomPackUpdater/releases/download/v1.0.0/CustomPack.zip",
+  "file_name": "CustomPack.zip",
+  "sha256": "AUTOMATISCH_BERECHNETER_HASH",
+  "minecraft_versions": ["26.2"]
+}
