@@ -1,0 +1,3 @@
+Hier kommt deine Resource-Pack-ZIP hinein (genau EINE .zip-Datei, z. B. CustomPack.zip).
+Die ZIP muss die Datei pack.mcmeta direkt im obersten Ordner enthalten.
+Sobald du eine ZIP hochlädst oder ersetzt, startet GitHub Actions automatisch.
