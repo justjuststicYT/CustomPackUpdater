@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/justjuststicYT/CustomPackUpdater/releases/download/v1.0.2/CustomPack.zip",
+  "version": "1.0.3",
+  "download_url": "https://github.com/justjuststicYT/CustomPackUpdater/releases/download/v1.0.3/CustomPack.zip",
   "file_name": "CustomPack.zip",
-  "sha256": "a5b612fa3205e66d27827a104b724a136f45a991055b6aed1815f689072e44c2",
+  "sha256": "a295f9252ed578ce174873c3b7c5747545d48d553e98411387655b05d6c807e6",
   "minecraft_versions": [
     "26.2"
   ]
